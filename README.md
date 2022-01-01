@@ -9,6 +9,22 @@
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 - [Blank HTML, CSS & JS template](./Blank-HTML-CSS-JS-template)
+- 🔮 Future Idea #1: To create following templates with code files in respective directories and the steps to create them
+    - ReactJS template
+    - React + ReduxJS template
+    - NodeJS template
+    - Node + ExpressJS template
+    - Firebase template
+    - Flask template
+    - Docker template
+- 🔮 Future Idea #2: To create following README templates with markdown code and usage steps
+    - Graphic Design for Project template
+    - Low level (Object-oriented) design for Project template
+    - Project Video demo template
+    - README of Project template for neat documentation
+    - Project Curation table template
+    - README of Project Curation for neat documentation
+- 🔮 Future Idea #3: To create mini markdown README templates for neat documentation and ease of use
 
 ---
 
