@@ -4,4 +4,4 @@
 
 ---
 
-- Blank HTML, CSS & JS template](./Blank-HTML-CSS-JS-template)
+- [Blank HTML, CSS & JS template](./Blank-HTML-CSS-JS-template)
