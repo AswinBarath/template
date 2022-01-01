@@ -25,6 +25,9 @@
     - Project Curation table template
     - README of Project Curation for neat documentation
 - 🔮 Future Idea #3: To create mini markdown README templates for neat documentation and ease of use
+- 🔮 Future Idea #4: To create java development templates
+- 🔮 Future Idea #5: To create python development templates
+- 🔮 Future Idea #6: To create engineering templates like ML, Blockchain, IoT, Data Analytics, Quantum Computing, ...
 
 ---
 
