@@ -92,3 +92,45 @@
 ```
 [![JavaScript Roadmap - Basics](https://img.youtube.com/vi/ry8i5Qam7RI/0.jpg)](https://www.youtube.com/watch?v=ry8i5Qam7RI)
 ```
+
+---
+
+### Calendar progress tracker
+
+#### January 2022
+
+| Su | Mo | Tu | We | Th | Fr | Sa |
+| - | - | - | - | - | - | - |
+| - | - | - | - | - | - | [1 ✅](https://github.com/AswinBarath/Secure-Programming/commits?author=AswinBarath&since=2022-01-01&until=2022-01-02) |
+| 2 ❌ | 3 ✅ | 4 ✅ | 5 ✅ | 6 ✅ | 7 ✅ | 8 ✅ |
+| 9 ❌ | 10 ✅ | 11 ✅ | 12 ✅ | 13 ✅ | 14 ✅ | 15 ✅ |
+| 16 ❌ | 17 ✅ | 18 ✅ | 19 ✅ | 20 ✅ | 21 ✅ | 22 ✅ |
+| 23 ❌ | 24 ✅ | 25 ✅ | 26 ✅ | 27 ✅ | 28 ✅ | 29 ✅ |
+| 30 ❌ | 31 ✅ | - | - | - | - | - |
+
+#### Credits
+
+- Shoutout to **[James Clear](https://twitter.com/JamesClear)** (Author of Atomic Habits) for sharing the idea of Progress Tracker in his book Atomic Habits
+- **[Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)** (Developer & Lead Instructor) for sharing a habit tracker printout template with her course
+- And myself 😅 **[Aswin Barath](https://github.com/AswinBarath)** (Proud Owner of Repo) to mix-match ideas into this repository for the first time in my GitHub profile
+
+#### Usage
+
+- Click the dates to check out the commits
+- Progress type:
+    - ✅ Consitency
+    - ❌ Broke the chain
+- 404 Error implies that it's private repository for now, wait till it's made public
+- Markdown code for the above card
+```
+| Su | Mo | Tu | We | Th | Fr | Sa |
+| - | - | - | - | - | - | - |
+| - | - | - | - | - | - | [1 ✅](#) |
+| [2 ❌](#) | 3 | 4 | 5 | 6 | 7 | 8 |
+| 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | - | - | - | - | - |
+```
+
+---
